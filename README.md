@@ -180,6 +180,27 @@ $(".foo div#bar:eq(0)")
 ```
 * Difference between 'delegate()' and 'live()'?
 
+### ExtJS-Specific Questions:
+
+* Why you've chosen ExtJS?
+* What are pros and cons sides of ExtJS?
+* Structure of Ext JS 4 application
+* How to access Dom element using ExtJS? … Component?
+* What is purpose of Ext.Element?
+* What is xtype?
+* How to reduce time for initial page loading in ExtJS?
+* How to customize look'n'feel?
+* How to handle event for a Ext JS component? Describe several approaches.
+* What is purpose and responsibility of controllers?
+* What is model? What functionality does model have? (Active Record, validation, associations, getters, setters, isDirty, id)
+* What is store? How it works?
+* What is the purpose of load() in store?
+* What's difference between load() and loadData()?
+* What are layout managers?
+* How grids in ExtJS work?
+    * Purpose of renderer in grid panel?
+    * Paging toolbars
+    * Cell and row editing
 
 ### CSS-Specific Questions:
 
