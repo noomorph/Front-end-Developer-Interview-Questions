@@ -1,40 +1,11 @@
 #Front-end Job Interview Questions
 
-@version 2.0.0
-
-This repo contains a number of front-end interview questions that can be used when vetting potential candidates. It is by no means recommended to use every single question here on the same candidate (that would take hours). Choosing a few items from this list should help you vet the intended skills you require.
-
-[Rebecca Murphey](http://rmurphey.com/)'s [Baseline For Front-End Developers](http://rmurphey.com/blog/2012/04/12/a-baseline-for-front-end-developers/) is also a great resource to read up on before you head into an interview.
-
-**Note:** Keep in mind that many of these questions are open ended and could lead to interesting discussions that tell you more about the person's capabilities than a straight answer would.
-
-####Original Contributors
-
-The majority of the questions were plucked from an [oksoclap](http://oksoclap.com/) thread created originally by [Paul Irish](http://paulirish.com) ([@paul_irish](http://twitter.com/paul_irish)) and contributed to by the following individuals:
-
-* [@bentruyman](http://twitter.com/bentruyman) - http://bentruyman.com
-* [@cowboy](http://twitter.com/cowboy) - http://benalman.com
-* [@ajpiano](http://ajpiano) - http://ajpiano.com
-* [@SlexAxton](http://twitter.com/slexaxton) - http://alexsexton.com
-* [@boazsender](http://twitter.com/boazsender) - http://boazsender.com
-* [@miketaylr](http://twitter.com/miketaylr) - http://miketaylr.com
-* [@vladikoff](http://twitter.com/vladikoff) - http://vladfilippov.com
-* [@gf3](http://twitter.com/gf3) - http://gf3.ca
-* [@jon_neal](http://twitter.com/jon_neal) - http://twitter.com/jon_neal
-* [@wookiehangover](http://twitter.com/wookiehangover) - http://wookiehangover.com
-* [@darcy](http://twitter.com/darcy) - http://darcyclarke.me
-* [@iansym](http://twitter.com)
-
 ### General Questions:
 
 * Can you describe your workflow when you create a web page?
 * How would you optimize a websites assets/resources?
   * Looking for a number of solutions which can include:
-    * File concatenation
-    * File minification
-    * CDN Hosted
-    * Caching
-    * etc.
+    * File concatenation, minification, CDN, caching, etc…
 * Name 3 ways to decrease page load. (perceived or actual load time)
 * How would you create a simple slideshow page?
   * Bonus points if it does not use JS.
