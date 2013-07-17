@@ -68,9 +68,6 @@ function Person(){} var person = Person() var person = new Person()
 * What's the difference between `.call` and `.apply`?
 * Explain AJAX in as much detail as possible
 * Explain how JSONP works (and how it's not really AJAX)
-```
-(function () { c=5; var c; console.log(c); })()
-```
 * What's the difference between an "attribute" and a "property"?
 * Why is extending built in JavaScript objects not a good idea? Why good idea?
 * What is the difference between `==` and `===`?
@@ -182,5 +179,8 @@ arguments.length
 * Have you ever used JavaScript templating?
   * If so, what libraries have you used? (Mustache.js, Handlebars etc.)
 * Explain "hoisting". What will the following function log?
+```
+(function () { c=5; var c; console.log(c); })()
+```
 * (+) CSS selector priority
 * What's your favorite feature of Internet Explorer?
